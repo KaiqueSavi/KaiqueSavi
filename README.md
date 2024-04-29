@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KaiqueSavi/KaiqueSavi/assets/121976846/a1021edd-d6a8-4044-8818-6b43f42bbe85" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
