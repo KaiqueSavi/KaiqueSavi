@@ -3,7 +3,7 @@
 
 Sou desenvolvedor na **DELIPE** — empresa de marketing, consultoria e tecnologia para provedores de internet (ISPs). Atuo no desenvolvimento de plataformas de análise de vendas com IA, pipelines ETL, workflows de automação e integrações entre múltiplos sistemas.
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas / IA** na **FIAP** 🎓
+Atualmente cursando **Inteligência Artificial** na **FIAP** 🎓
 
 ---
 
