@@ -6,7 +6,7 @@ Sou **Head na DELIPE** — empresa de marketing, consultoria e tecnologia para p
 Atualmente cursando **Inteligência Artificial** na **FIAP** 🎓
 
 ### 🚀 IA em produção (DELIPE — código privado)
-- **Salesfy** — SaaS de análise de conversas de vendas com IA, em uso por ~14 provedores de internet.
+- **IA de monitoria (DELIPE-OS)** — IA que analisa todas as reuniões do time, integrada à plataforma interna de gestão de projetos e entregas.
 - **Predição de churn** — pipeline de ML com **XGBoost + SHAP** sobre dados de ERP de provedores, com explicabilidade para o time de negócio.
 - **MCP servers** — integrações Model Context Protocol com ERPs de provedores para analytics operacional (churn, inadimplência, retenção, vendas) via agentes de IA.
 
