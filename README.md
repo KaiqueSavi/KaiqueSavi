@@ -1,9 +1,19 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor na **DELIPE** — empresa de marketing, consultoria e tecnologia para provedores de internet (ISPs). Atuo no desenvolvimento de plataformas de análise de vendas com IA, pipelines ETL, workflows de automação e integrações entre múltiplos sistemas.
+Sou **Head na DELIPE** — empresa de marketing, consultoria e tecnologia para provedores de internet (ISPs) —, onde entrei em 2023 como desenvolvedor full-stack. Construo plataformas de IA em produção, pipelines de dados, automações e integrações entre sistemas.
 
 Atualmente cursando **Inteligência Artificial** na **FIAP** 🎓
+
+### 🚀 IA em produção (DELIPE — código privado)
+- **Salesfy** — SaaS de análise de conversas de vendas com IA, em uso por ~14 provedores de internet.
+- **Predição de churn** — pipeline de ML com **XGBoost + SHAP** sobre dados de ERP de provedores, com explicabilidade para o time de negócio.
+- **MCP servers** — integrações Model Context Protocol com ERPs de provedores para analytics operacional (churn, inadimplência, retenção, vendas) via agentes de IA.
+
+### 📌 Projetos públicos em destaque
+- [**AgroGuard IA**](https://github.com/KaiqueSavi/AgroGuard) — predição de risco em equipamentos agrícolas (Challenge Sompo × FIAP): FastAPI, PostgreSQL, Streamlit, Docker, 68 testes automatizados, model card e explicabilidade.
+- [**OrbiTerra**](https://github.com/KaiqueSavi/OrbiTerra-GS2026) — risco de estresse hídrico no café fundindo satélite (NDVI/LST) + sensor ESP32; XGBoost/Random Forest com validação temporal (+14 pt de acurácia com o sensor).
+- [**Visão computacional com YOLO**](https://github.com/KaiqueSavi/fiap-inteligencia-artificial/tree/main/SEM1/FASE06/PBL) — YOLOv5 customizado vs. YOLO pré-treinado (COCO) vs. CNN treinada do zero.
 
 ---
 
